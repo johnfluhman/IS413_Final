@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Delete Confirmation";
+}
+
+@model Quotes
+<div>
+    <h1>Are you sure want to delete the quote?</h1><br />
+    <form method="post">
+        <button class="btn btn-danger btn-sm" type="submit">Delete Now</button>
+        <a asp-controller="Home" asp-action="Details" asp-route-qouteid="@Model.QuoteID" class="btn btn-primary btn-sm">Cancel</a>
+        <input type="hidden" asp-for="QuoteID" />
+    </form>
+</div>

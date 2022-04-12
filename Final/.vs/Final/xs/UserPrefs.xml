@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{ECD8F165-710A-40A9-8F2B-E6D38D46CD51}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Final/Views/Home/Details.cshtml">
+    <Files>
+      <File FileName="Final/Controllers/HomeController.cs" Line="56" Column="32" />
+      <File FileName="Final/Views/Shared/_Layout.cshtml" Line="36" Column="11" />
+      <File FileName="Final/Views/Home/Index.cshtml" Line="28" Column="49" />
+      <File FileName="Final/Views/Home/Edit.cshtml" Line="25" Column="50" />
+      <File FileName="Final/Views/Home/Delete.cshtml" />
+      <File FileName="Final/Models/Quotes.cs" Line="13" Column="43" />
+      <File FileName="Final/Models/EFQuoteRepository.cs" Line="21" Column="59" />
+      <File FileName="Final/Views/Home/Details.cshtml" Line="19" Column="22" />
+      <File FileName="Final/Views/Home/EnterQuote.cshtml" Line="25" Column="57" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Final" expanded="True">
+            <Node name="Final" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Details.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Final PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
